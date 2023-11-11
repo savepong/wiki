@@ -18,7 +18,7 @@
 | [[HuaweiOffice]] |  | 39th Fl., G Tower | 50 |
 | [[K+Building]] |  | K+ Building, Soi Chula 20 | 200 |
 | [[KKUSciencePark]] |  | KKU Science Park, Khon Kaen | 230 |
-| [[LSEGOffice]] |  | 31st Fl., U Chu Liang Building | 100 |
+| [[LSEG Bangkok Office]] |  | 31st Fl., U Chu Liang Building | 100 |
 | [[MFEC]] |  | 11th Fl., SJ Infinite One Business Complex | 60 |
 | [[MicrosoftThailand]] |  | 38th Fl., CRC Tower Building, All Seasons Place | 105 |
 | [[MuseFoundation]] |  |  |  |
